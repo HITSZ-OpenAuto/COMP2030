@@ -1,10 +1,5 @@
 # COMP2030 - 离散数学
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 由大一上开设的 3 学分的《集合论与图论》与大二上开设的 2 学分的《数理逻辑》合并而来。
 24 级本门课作为计科方向轨道课程，改为考查课。
@@ -103,3 +98,12 @@
 
 第一本教材（屈婉玲版）为《集合论与图论》和本门课的教材，第二本教材（李涛版）为《数理逻辑》的教材。
 请在使用往年资料时注意数理逻辑部分一些数学符号和语言表述的不同。
+
+## 测试用请忽略
+<!-- TOML-SECTION: title="测试用请忽略" -->
+
+<!-- TOML-ITEM: id="item-测试用请忽略-1" -->
+
+仅用于测试hita aura的hoa贡献功能
+
+> 文 / strayrn，2026-05
