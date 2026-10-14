@@ -1,0 +1,187 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814602,
+    "hash": "5e9ddc092b1a1dd6dbc2f1fa0a4aa09d2410f06d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  },
+  "README.md": {
+    "size": 6145,
+    "time": 1791961461,
+    "hash": "e74adb04c7912a677c18bcb7c48c17d92a0bf008"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  },
+  "exams/2015-2017数理逻辑本部试卷（手打）.pdf": {
+    "size": 719449,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2019秋数理逻辑答案.pdf": {
+    "size": 82821,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2019秋数理逻辑试卷.pdf": {
+    "size": 51105,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2020秋数理逻辑试卷回忆版.pdf": {
+    "size": 132140,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2021秋集合论与图论期末试卷.pdf": {
+    "size": 328284,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2024秋离散数学试题 答案.pdf": {
+    "size": 186644,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "exams/2024秋离散数学试题.pdf": {
+    "size": 84879,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  },
+  "notes/2019集合论与图论_xyfJASON/README.md": {
+    "size": 640,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论定理总结.md": {
+    "size": 14755,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论思维导图.001.jpeg": {
+    "size": 378497,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论思维导图.002.jpeg": {
+    "size": 266617,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论思维导图.003.jpeg": {
+    "size": 278806,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论思维导图.004.jpeg": {
+    "size": 262525,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/图论思维导图.005.jpeg": {
+    "size": 281376,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2019集合论与图论_xyfJASON/集合论定理总结.md": {
+    "size": 13946,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2020数理逻辑Note_JarrettYe.md": {
+    "size": 16432,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2021数理逻辑笔记_xyfJASON/FC系统证明思维.pdf": {
+    "size": 2685625,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2021数理逻辑笔记_xyfJASON/ND系统证明思维.pdf": {
+    "size": 3647646,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2021数理逻辑笔记_xyfJASON/PC系统证明思维.pdf": {
+    "size": 5463750,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2021数理逻辑笔记_xyfJASON/README.md": {
+    "size": 791,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2021数理逻辑笔记_xyfJASON/数理逻辑题型一览.pdf": {
+    "size": 1606857,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2022数理逻辑_hansen/FC 一阶谓词演算形式系统.md": {
+    "size": 3311,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2022数理逻辑_hansen/ND 自然演绎推理系统.md": {
+    "size": 4740,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2022数理逻辑_hansen/PC 命题逻辑形式系统.md": {
+    "size": 9942,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2022数理逻辑_hansen/命题逻辑基础.md": {
+    "size": 2573,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2024秋离散定义定理整理-Gaster.pdf": {
+    "size": 5581557,
+    "time": 1756107773,
+    "hash": "9412a22e5af9d34ef2cbe2e74479cb51617c40da"
+  },
+  "notes/2025-离散数学笔记整理(基于cyy老师ppt)-lumen.pdf": {
+    "size": 3131610,
+    "time": 1768141674,
+    "hash": "f6a557df285b2afb0f30a19aecca4750c57b4bc0"
+  },
+  "notes/离散数学定义与定理 by wzy.pdf": {
+    "size": 4229392,
+    "time": 1768230076,
+    "hash": "153cea5e7fd1f01dd8fa23100696c24fb9622517"
+  },
+  "readme.toml": {
+    "size": 6124,
+    "time": 1773428072,
+    "hash": "0f97b11b59f838de24240bd58749f840234e31d5"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754197402,
+    "hash": "695f71ba939915f8d9a1fda9e35cfbd596585699"
+  }
+}
