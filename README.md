@@ -1,10 +1,5 @@
 # COMP2030 - 离散数学
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 由大一上开设的 3 学分的《集合论与图论》与大二上开设的 2 学分的《数理逻辑》合并而来。
 24 级本门课作为计科方向轨道课程，改为考查课。
